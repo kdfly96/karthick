@@ -1,0 +1,15 @@
+$ ls  ==> List of Directories
+$ git init ==> Initialized empty Git repository
+$ git status ==> Folder Level Comparison
+$ git diff ==> File Level Comparison
+$ git add pom.xml ==> Add through the local level
+$ git commit -m "First Commit" ==> Final Setup of the Local level
+$ git push -u origin master ==> push the Local to Cloud
+$ git pull -u origin master ==> pull the Cloud to Local
+$ git log ==> History of Logs
+
+$ git config --global user.email "karthikdurai96@gmail.com"
+$ git config --global user.name "kdfly96"
+$ git remote add origin https://github.com/kdfly96/GitTest.git
+
+

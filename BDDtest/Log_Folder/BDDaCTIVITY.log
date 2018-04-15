@@ -1,0 +1,72 @@
+2018-04-11 22:49:39.154 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-11 22:49:42.194 INFO  HomePage:54 - Enter the Username is: VmetryA
+2018-04-11 22:49:42.964 INFO  HomePage:63 - Enter the Mobile Number is: 1111
+2018-04-11 22:49:43.071 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-11 22:49:43.198 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-11 22:49:43.482 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-11 22:49:43.729 INFO  HomePage:99 - Booking Later
+2018-04-11 22:49:43.736 INFO  HomePage:106 - Don't th Booking
+2018-04-11 22:49:43.737 INFO  HomePage:115 - Test Case Passed
+2018-04-11 22:49:43.748 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-11 22:49:44.416 INFO  HomePage:54 - Enter the Username is: VmetryB
+2018-04-11 22:49:44.523 INFO  HomePage:63 - Enter the Mobile Number is: 2222
+2018-04-11 22:49:44.632 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-11 22:49:44.748 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-11 22:49:45.029 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-11 22:49:45.295 INFO  HomePage:99 - Booking Later
+2018-04-11 22:49:45.303 INFO  HomePage:106 - Don't th Booking
+2018-04-11 22:49:45.304 INFO  HomePage:115 - Test Case Passed
+2018-04-11 22:49:45.318 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-11 22:49:45.946 INFO  HomePage:54 - Enter the Username is: VmetryC
+2018-04-11 22:49:46.073 INFO  HomePage:63 - Enter the Mobile Number is: 3333
+2018-04-11 22:49:46.181 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-11 22:49:46.294 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-11 22:49:46.553 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-11 22:49:46.804 INFO  HomePage:99 - Booking Later
+2018-04-11 22:49:46.808 INFO  HomePage:106 - Don't th Booking
+2018-04-11 22:49:46.809 INFO  HomePage:115 - Test Case Passed
+2018-04-11 22:49:46.816 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-11 22:49:47.395 INFO  HomePage:54 - Enter the Username is: VmetryD
+2018-04-11 22:49:47.496 INFO  HomePage:63 - Enter the Mobile Number is: 4444
+2018-04-11 22:49:47.597 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-11 22:49:47.710 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-11 22:49:47.980 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-11 22:49:48.230 INFO  HomePage:99 - Booking Later
+2018-04-11 22:49:48.235 INFO  HomePage:106 - Don't th Booking
+2018-04-11 22:49:48.236 INFO  HomePage:115 - Test Case Passed
+2018-04-13 22:14:25.536 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-13 22:14:27.935 INFO  HomePage:54 - Enter the Username is: VmetryA
+2018-04-13 22:14:28.840 INFO  HomePage:63 - Enter the Mobile Number is: 1111
+2018-04-13 22:14:28.948 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-13 22:14:29.086 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-13 22:14:29.426 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-13 22:14:29.878 INFO  HomePage:99 - Booking Later
+2018-04-13 22:14:29.886 INFO  HomePage:106 - Don't the Booking
+2018-04-13 22:14:29.887 INFO  HomePage:115 - Test Case Passed
+2018-04-13 22:14:29.898 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-13 22:14:30.554 INFO  HomePage:54 - Enter the Username is: VmetryB
+2018-04-13 22:14:30.652 INFO  HomePage:63 - Enter the Mobile Number is: 2222
+2018-04-13 22:14:30.766 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-13 22:14:30.887 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-13 22:14:31.225 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-13 22:14:31.580 INFO  HomePage:99 - Booking Later
+2018-04-13 22:14:31.589 INFO  HomePage:106 - Don't the Booking
+2018-04-13 22:14:31.591 INFO  HomePage:115 - Test Case Passed
+2018-04-13 22:14:31.605 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-13 22:14:32.097 INFO  HomePage:54 - Enter the Username is: VmetryC
+2018-04-13 22:14:32.203 INFO  HomePage:63 - Enter the Mobile Number is: 3333
+2018-04-13 22:14:32.306 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-13 22:14:32.415 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-13 22:14:32.694 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-13 22:14:32.949 INFO  HomePage:99 - Booking Later
+2018-04-13 22:14:32.954 INFO  HomePage:106 - Don't the Booking
+2018-04-13 22:14:32.955 INFO  HomePage:115 - Test Case Passed
+2018-04-13 22:14:32.965 INFO  HomePage:43 - Enter the Url is: http://www.ntltaxi.com/index.php
+2018-04-13 22:14:33.443 INFO  HomePage:54 - Enter the Username is: VmetryD
+2018-04-13 22:14:33.594 INFO  HomePage:63 - Enter the Mobile Number is: 4444
+2018-04-13 22:14:33.705 INFO  HomePage:72 - Enter the Pickup Address is: ADYAR
+2018-04-13 22:14:33.817 INFO  HomePage:81 - Enter the Drop Address is: ADYAR
+2018-04-13 22:14:34.093 INFO  HomePage:90 - Enter the Vehicle Type is: Sedan
+2018-04-13 22:14:34.377 INFO  HomePage:99 - Booking Later
+2018-04-13 22:14:34.383 INFO  HomePage:106 - Don't the Booking
+2018-04-13 22:14:34.384 INFO  HomePage:115 - Test Case Passed
